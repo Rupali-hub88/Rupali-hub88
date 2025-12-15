@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Rupali Kumari
 
-<!--
-**Rupali-hub88/Rupali-hub88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student  
+💻 Beginner in Programming  
+🌱 Currently learning Python, C and Web Development  
+🎯 Aspiring Software / IT Professional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills (Learning)
+- C Programming  
+- Python  
+- HTML & CSS  
+
+---
+
+### 📂 Projects
+- **ForDemo** – My first GitHub repository  
+- More beginner projects coming soon 🚀  
+
+---
+
+### 📫 Contact
+- Email: rupali.kumari487967@gmail.com
